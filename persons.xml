@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Persons><Person name="Vladimir" 
+		age="17"
+		height = "170"
+		weight = "60"
+		passportID = "352345"
+		color = "RED"
+		dateTime = "2021-03-12 13:13"><coordinates x="1" y="123"/><location x="1" y="2" z="3"/>
+	</Person>
+	<Person name="Anton" 
+		age="17"
+		height = "187"
+		weight = "70"
+		passportID = "335798"
+		color = "BROWN"
+		dateTime = "2021-12-12 13:54"><coordinates x="1" y="1"/><location x="1" y="2" z="3"/>
+	</Person>
+	<Person name="Oleg" 
+		age="33"
+		height = "165"
+		weight = "57"
+		passportID = "245097"
+		color = "GREEN"
+		dateTime = "2021-03-12 13:13"><coordinates x="1" y="1"/><location x="1" y="2" z="3"/>
+	</Person>
+</Persons>

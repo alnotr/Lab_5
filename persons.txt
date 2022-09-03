@@ -1,0 +1,12 @@
+<Persons>
+	<Person name="Vladimir" age="17">
+		<coordinates x="1" y="123"/>
+		<location x="1" y="2" z="3"/>
+	</Person>
+	<Person name="Anton" age="17">
+		<coordinates x="1" y="1"/>
+	</Person>
+	<Person name="Oleg" age="33">
+		<coordinates x="1" y="1"/>
+	</Person>
+</Persons>
